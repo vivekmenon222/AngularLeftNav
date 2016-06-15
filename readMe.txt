@@ -1,0 +1,1 @@
+a basic angularjs app with left navigation
